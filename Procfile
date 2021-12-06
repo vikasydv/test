@@ -1,0 +1,1 @@
+web:gunicorn ch4_project.wsgi --log-file-
